@@ -5,9 +5,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class AppController {
-	@RequestMapping("/gettingstarted")
+	@RequestMapping("/")
 	public String gettingStarted()
 	{
-	return "Getting Started with Spring";
+	return "Getting Started with Springboot.";
 	}
 }
