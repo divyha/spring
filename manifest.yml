@@ -1,6 +1,6 @@
 ---
 applications:
-- name: sample
+- name: test_project_to_deploy
   memory: 50MB
   host: test_project_to_deploy
   path: /var/lib/jenkins/.m2/repository/com/sample/java/sample/0.0.1-SNAPSHOT/sample-0.0.1-SNAPSHOT.jar
