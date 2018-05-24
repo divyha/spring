@@ -1,6 +1,5 @@
 ---
 applications:
 - name: spring
-  memory: 512M
-  host: https://api.run.pivotal.io
+  memory: 100MB
   path: /var/lib/jenkins/.m2/repository/com/sample/java/sample/0.0.1-SNAPSHOT/sample-0.0.1-SNAPSHOT.jar
