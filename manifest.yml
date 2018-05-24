@@ -2,5 +2,5 @@
 applications:
 - name: springboot-first
   memory: 512M
-  host: springboot-first
+  host: apps.internal
   path: target/sample-0.0.1-SNAPSHOT.jar
